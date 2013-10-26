@@ -12,6 +12,7 @@ public class UsuarioMB {
 	
 	public String getNome() {
 		return nome;
+  //tedt
 	}
 
 	public void setNome(String nome) {
